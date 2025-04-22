@@ -1,5 +1,8 @@
+# Image Acquisition using Web Camera
 
-### Aim:
+### Name : Nikhil M
+### Register No : 212222230095
+## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
